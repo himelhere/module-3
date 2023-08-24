@@ -4,4 +4,17 @@ div{
     background-color: rgba(255, 145, 125, 0.944);
 
 }
+header{
+    margin: 5vh 40%;
+}
+#blog-title{
+    color: brown;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+#banner{
+    width: 500px;
+    
+}
 
